@@ -12,7 +12,7 @@ Following the deprecation of the MedTech service and the completion of customer 
 
 **Important dates**
 
-- May 3, 2025 – Initiation of MedTech service deprecation and prevention of new instance creation
+- May 3, 2025 – Initiation of MedTech service deprecation and prevention of new instance creation 
 - April 13, 2026 – Archival of this open-source repository
 
 **Acknowledgements**
@@ -27,6 +27,14 @@ To learn more about current Microsoft healthcare interoperability solutions, ple
 - [ Azure Health Data Services](https://learn.microsoft.com/en-us/azure/healthcare-apis/)
 - [FHIR service in Azure Health Data Services](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/)
 - Community discussions on https://stackoverflow.com/questions/tagged/azure-health-data-services
+
+**Archived content disclaimer**
+
+The content in this repository is no longer actively maintained and may be out of date or no longer accurate. Dependencies, APIs, deployment models, or referenced services may have changed since the time of last update.
+
+⚠️ **Security Notice:**
+
+Archived repositories do not receive security updates, bug fixes, or compatibility improvements. Use of this code in production environments may introduce security or operational risks. Microsoft recommends against deploying or relying on archived repositories in active workloads.
 
 
 **The original README content has been preserved below for historical reference.**
